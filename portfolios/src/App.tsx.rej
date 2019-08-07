@@ -1,0 +1,6 @@
+diff a/portfolios/src/App.tsx b/portfolios/src/App.tsx	(rejected hunks)
+@@ -1,2 +1,2 @@
+-import React, {Component} from 'react';
+-import SkillList, {Skill} from './SkillList';
++import React, { Component } from 'react';
++import SkillList, { Skill } from './SkillList';
