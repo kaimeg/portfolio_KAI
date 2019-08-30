@@ -1,4 +1,0 @@
-diff a/portfolios/src/index.tsx b/portfolios/src/index.tsx	(rejected hunks)
-@@ -12,2 +11,0 @@ serviceWorker.unregister();
--
--
